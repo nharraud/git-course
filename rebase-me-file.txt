@@ -2,3 +2,5 @@ This was added by the first commit and should not disappear.
 
 This line is added by the second commit and is a mistake.
 This line is added by the second commit and is OK.
+
+This line is added by the last commit and should be kept.
